@@ -1,0 +1,13 @@
+"Phrases"
+{
+	"NoBlockStart"
+	{
+		"#format"		"{1:i}"
+		"pl"	"{lightred}★ [NoBlock]{yellow} Przenikanie przez sojuszników jest aktualnie włączone przez następne: {green}{1}{yellow} sekund od rozpoczęcia rundy."
+	}
+	
+	"NoBlockEnd"
+	{
+		"pl"	"{lightred}★ [NoBlock]{yellow} Przenikanie przez sojuszników zostało {darkred}wyłączone"
+	}
+}

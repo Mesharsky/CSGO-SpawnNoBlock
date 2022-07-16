@@ -1,0 +1,13 @@
+"Phrases"
+{
+	"NoBlockStart"
+	{
+		"#format"		"{1:i}"
+		"en"	"{lightred}★ [NoBlock]{yellow} NoBlock is currently enabled for the next {green}{1}{yellow} seconds after the round starts."
+	}
+	
+	"NoBlockEnd"
+	{
+		"en"	"{lightred}★ [NoBlock]{yellow} NoBlock has {darkred}ended."
+	}
+}
