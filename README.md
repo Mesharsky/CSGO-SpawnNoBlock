@@ -1,0 +1,2 @@
+# -CSGO-SpawnNoBlock
+Pog
